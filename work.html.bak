@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<body">
+<TITLE>HEAMAL</TITLE>
+<body style=background-color:powderblue;">
+<CENTER> 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<button type="button" onclick="alert('hello world')">Home</button>
+<button type="button" onclick="alert('hello world')">about</button>
+<button type="button" onclick="alert('hello world')">block</button>
+<button type="button" onclick="alert('hello world')">content</button>
+ <H1>TITLE</H1>
+<h6>hello how are you my name is vishal</h6>
+<button>read more</button>
+</br>
+<br>
+<h1>classes</h1>
+<h6>hello where are you from</h6>
+<h2>Hello there is a class today</h2>
+<img src="C:\Users\VISHAL SUKRE\Desktop\cap.jpg" alt="cap" width="200" height="200">
+
+</br>
+</CENTER>
+</head>
+</body>
+
+</html>
+
